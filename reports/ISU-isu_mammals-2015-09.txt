@@ -1,0 +1,156 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 85
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 3
+	Country: Germany ; Times: 6
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-07 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 6
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "metamora illinois" ; Times: 4
+	Query: "Lasiurus seminolus" ; Times: 3
+	Query: "county:&#34;Rock Island&#34; stateprovince:&#34;Illinois&#34; class:mammalia year &lt;= 2015" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 5
+	Query: "Myotis keenii" ; Times: 3
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "crocuta crocuta" ; Times: 5
+	Query: "crocuta" ; Times: 1
+	Query: "Poliocitellus franklinii" ; Times: 2
+	Query: "Panthera type:specimen (skull)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "&#34;Didelphis Virginia&#34;" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "Peromyscus guatemalensis" ; Times: 1
+	Query: "poliocitellus franklinii" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1940 year &lt;= 1990" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;United States&#34; AND (NOT catalog)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 1045 download events in this period)
+Total number of records downloaded: 1041
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 2
+	Country: United States ; Times: 88
+	Country: Chile ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 21
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 26
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Octodon degus" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "poliocitellus franklinii" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+
+
+End of report.
