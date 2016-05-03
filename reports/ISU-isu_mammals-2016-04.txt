@@ -1,0 +1,132 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 13
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "type:specimen genus:bassariscus stateprovince:&#34;texas&#34; mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen (Texas) mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Bassariscus texas type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "Bassariscus texas type:specimen mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Panthera Leo" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 163 (out of 1312 download events in this period)
+Total number of records downloaded: 1247
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-25 ; Times: 6
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 11
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "mammals in san luis potosi" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
