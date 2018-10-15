@@ -1,0 +1,151 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;brewster&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon institutioncode:ISU" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "catalognumber:9 &#34;tamiasciurus hudsonicus&#34;" ; Times: 1
+	Query: "distance(location,geopoint(41.5636378550001,-93.2740433419999))&lt;5425" ; Times: 4
+	Query: "Bassariscus" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "neofelis" ; Times: 2
+	Query: "Bradypus tridactylus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon institutioncode:ISU" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:ISU" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1892 download events in this period)
+Total number of records downloaded: 2886
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 66
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 48
+	Date: 2018-02-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "genus:manis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Mammalia institutioncode:ISU" ; Times: 2
+	Query: "Philander opossum" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+
+
+End of report.
