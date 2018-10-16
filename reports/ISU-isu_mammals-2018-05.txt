@@ -1,0 +1,82 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Italy ; Times: 6
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-12 ; Times: 5
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-21 ; Times: 8
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "distance(location,geopoint(40.3652015999221,-89.8405210469735))&lt;3477" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:ISU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "distance(location,geopoint(41.5636378550001,-93.2740433419999))&lt;5425" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "distance(location,geopoint(42.9787039604825,-89.428143815909))&lt;9675" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "distance(location,geopoint(41.115162657804,-89.3887602040832))&lt;14794" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1178 download events in this period)
+Total number of records downloaded: 108
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+
+
+End of report.
