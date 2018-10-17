@@ -1,0 +1,71 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Denmark ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1416 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "oaxaca" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+
+
+End of report.
