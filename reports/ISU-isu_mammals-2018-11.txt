@@ -1,0 +1,175 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-04 ; Times: 4
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-08 ; Times: 13
+	Date: 2018-11-07 ; Times: 8
+	Date: 2018-11-06 ; Times: 12
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-30 ; Times: 2
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-12 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 4
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1958 year &lt;= 1968" ; Times: 1
+	Query: "specificepithet:subflavus order:chiroptera stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 11
+	Query: "leopardus pardalis" ; Times: 19
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 14
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 2
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:ISU" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 1719 download events in this period)
+Total number of records downloaded: 757
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 59
+	Country: Mexico ; Times: 56
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-09 ; Times: 7
+	Date: 2018-11-07 ; Times: 9
+	Date: 2018-11-06 ; Times: 11
+	Date: 2018-11-05 ; Times: 6
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-03 ; Times: 3
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-15 ; Times: 27
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 12
+	Date: 2018-11-14 ; Times: 12
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 9
+	Date: 2018-11-12 ; Times: 15
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:helleri genus:Platyrrhinus" ; Times: 1
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:ISU" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sorex minutus" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 3
+	Query: "lontra canadensis" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Carollia perspicillata" ; Times: 2
+	Query: "genus:Molossus rufus" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "bradypus tridactylus" ; Times: 5
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "genus:Platyrrhinus helleri" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:desmarestianus genus:Heteromys" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "genus:Molossus molossus" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "genus:Heteromys desmarestianus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "genus:Leopardus pardalis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "genus:Philander opossum" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "specificepithet:rufus genus:Molossus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+
+
+End of report.
