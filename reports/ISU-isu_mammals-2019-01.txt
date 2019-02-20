@@ -1,0 +1,82 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 38
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:ISU" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:ISU" ; Times: 1
+	Query: "&#34;Didelphis Virginia&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 962 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
