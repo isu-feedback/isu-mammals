@@ -1,0 +1,90 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-13 ; Times: 9
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 5
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ISU" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 9
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "poliocitellus" ; Times: 3
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1227 download events in this period)
+Total number of records downloaded: 40
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ISU" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
