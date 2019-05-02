@@ -1,0 +1,79 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "neovison vison" ; Times: 6
+	Query: "Panthera uncia" ; Times: 2
+	Query: "Botswana vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 1
+	Query: "Saccopteryx billineata" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1281 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupaia glis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
