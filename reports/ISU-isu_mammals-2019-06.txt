@@ -1,0 +1,121 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-11 ; Times: 21
+	Date: 2019-06-10 ; Times: 35
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura specificepithet:cristata" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:guatemalensis" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Tupaia specificepithet:glis" ; Times: 2
+	Query: "genus:Paraxerus specificepithet:cepapi" ; Times: 2
+	Query: "genus:Microtus specificepithet:chrotorrhinus" ; Times: 1
+	Query: "genus:Lonchophylla specificepithet:robusta" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 1
+	Query: "genus:Macaca specificepithet:maura" ; Times: 2
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "Poliocitellus franklinii" ; Times: 1
+	Query: "genus:Ectophylla specificepithet:alba" ; Times: 1
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 2
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 2
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Pedetes specificepithet:capensis" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Bradypus specificepithet:tridactylus " ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:furvus" ; Times: 1
+	Query: "genus:Octodon specificepithet:degus" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:ISU" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Galago specificepithet:senegalensis" ; Times: 2
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "Myocastor coypus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Neofelis specificepithet:nebulosa" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Desmodillus specificepithet:auricularis" ; Times: 1
+	Query: "genus:Melanomys specificepithet:caliginosus" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Aepyceros specificepithet:melampus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1182 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 3
+	Country: Peru ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "epomophorus crypturus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+
+
+End of report.
