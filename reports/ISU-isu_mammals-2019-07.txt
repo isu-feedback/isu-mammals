@@ -1,0 +1,87 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 3
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:ISU" ; Times: 2
+	Query: "panthera uncia" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:microdipodops class:MAMMALIA locality:fallon" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:ISU" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:microdipodops class:MAMMALIA locality:fallon year &gt;= 1966" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Poliocitellus franklinii mappable:1" ; Times: 1
+	Query: "genus:Tadarida class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Poliocitellus specificepithet:franklinii" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 985 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
