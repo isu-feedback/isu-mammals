@@ -1,0 +1,115 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 118
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: United Kingdom ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-30 ; Times: 23
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera uncia" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "panthera leo" ; Times: 3
+	Query: "order:cingulata preparations:skeleton" ; Times: 20
+	Query: "county:&#34;kendall&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:nasutus genus:Peromyscus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:ISU" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Philander opossum mappable:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 12
+	Query: "Leopardus pardalis mappable:1" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1034 download events in this period)
+Total number of records downloaded: 97
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "artibeus watsoni" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+
+
+End of report.
