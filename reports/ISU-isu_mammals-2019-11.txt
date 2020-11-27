@@ -1,0 +1,73 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Denmark ; Times: 17
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-03 ; Times: 9
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:glaucomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Leopardus pardalis 2010" ; Times: 4
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "Leopardus pardalis 2012" ; Times: 4
+	Query: "specificepithet:fuscus genus:Eptesicus order:Chiroptera stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Melanomys caliginosus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1367 download events in this period)
+Total number of records downloaded: 325
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+
+
+End of report.
