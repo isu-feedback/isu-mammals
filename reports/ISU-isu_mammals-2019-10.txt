@@ -1,0 +1,132 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 98
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-05 ; Times: 26
+	Date: 2019-10-04 ; Times: 55
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus ochrogaster 1990" ; Times: 1
+	Query: "Peromyscus nasutus 2010" ; Times: 1
+	Query: "Reithrodontomys megalotis 2002" ; Times: 1
+	Query: "Microtus ochrogaster 2000" ; Times: 1
+	Query: "Peromyscus nasutus 2016" ; Times: 1
+	Query: "Mus musculus 2010" ; Times: 2
+	Query: "Dipodomys ordii 1972" ; Times: 1
+	Query: "specificepithet:leo genus:panthera" ; Times: 5
+	Query: "Dipodomys ordii 1975" ; Times: 1
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Peromyscus nasutus 2012" ; Times: 1
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "skin specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "Zapus princeps 2012" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 5
+	Query: "Zapus princeps 2010" ; Times: 1
+	Query: "Onychomys leucogaster 2010" ; Times: 2
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "Onychomys leucogaster 2012" ; Times: 1
+	Query: "specificepithet:monax genus:marmota year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "family:Vespertilionidae order:Chiroptera stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2011" ; Times: 2
+	Query: "Mus musculus 2001" ; Times: 2
+	Query: "Thomomys talpoides 2016" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Mus musculus 2012" ; Times: 4
+	Query: "Microtus ochrogaster 1984" ; Times: 1
+	Query: "Microtus ochrogaster 1985" ; Times: 1
+	Query: "Reithrodontomys megalotis 2012" ; Times: 1
+	Query: "Reithrodontomys megalotis 2010" ; Times: 3
+	Query: "Microtus ochrogaster 2016" ; Times: 2
+	Query: "Reithrodontomys megalotis 2016" ; Times: 4
+	Query: "Microtus ochrogaster 2010" ; Times: 2
+	Query: "family:Vespertilionidae order:Chiroptera stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2011" ; Times: 1
+	Query: "Mus musculus 2000" ; Times: 2
+	Query: "Neotoma cinerea 2016" ; Times: 2
+	Query: "Neotoma cinerea 2012" ; Times: 1
+	Query: "Neotoma cinerea 2010" ; Times: 1
+	Query: "Geomys bursarius 1976" ; Times: 1
+	Query: "Microtus ochrogaster 1972" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 3
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 2
+	Query: "Dipodomys ordii 2016" ; Times: 3
+	Query: "Geomys bursarius 1973" ; Times: 1
+	Query: "Geomys bursarius 2012" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:monax genus:marmota year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Neotoma cinerea 1979" ; Times: 1
+	Query: "Dipodomys ordii 2012" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Leopardus pardalis 2010" ; Times: 1
+	Query: "Leopardus pardalis 2012" ; Times: 1
+	Query: "Dipodomys ordii 2010" ; Times: 3
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "Microtus montanus 2012" ; Times: 1
+	Query: "Microtus montanus 2010" ; Times: 2
+	Query: "Thomomys talpoides 2012" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 2
+	Query: "Onychomys leucogaster 1975" ; Times: 1
+	Query: "Geomys bursarius 2010" ; Times: 1
+	Query: "Thomomys talpoides 2010" ; Times: 1
+	Query: "Microtus ochrogaster 2012" ; Times: 1
+	Query: "Peromyscus nasutus 1975" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1308 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
