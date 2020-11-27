@@ -1,0 +1,69 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 6
+	Country: Nepal ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-20 ; Times: 4
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:spilogale institutioncode:ISU" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 7
+	Query: "panthera uncia" ; Times: 3
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 1
+	Query: "Peromyscus leucopus Minnesota" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 596 download events in this period)
+Total number of records downloaded: 30
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Nepal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
