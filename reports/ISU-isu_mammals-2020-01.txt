@@ -1,0 +1,89 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 7
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-30 ; Times: 3
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "castanea Carollia" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Ectophylla alba" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Ectophylla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1584 download events in this period)
+Total number of records downloaded: 97
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-30 ; Times: 8
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
