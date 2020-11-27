@@ -1,0 +1,111 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 40
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 18
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-21 ; Times: 16
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "Ovis aries" ; Times: 10
+	Query: "vntype:specimen genus:Cryptotis family:Soricidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "specificepithet:franklinii genus:poliocitellus" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Felis silvestris" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1171 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Canada ; Times: 2
+	Country: Austria ; Times: 1
+	Country: India ; Times: 1
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 5
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 9
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen genus:Cryptotis family:Soricidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen genus:Paraxerus" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
