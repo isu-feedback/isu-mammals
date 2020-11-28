@@ -1,0 +1,68 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "Sweetwater county:&#34;Lyon&#34;" ; Times: 1
+	Query: "Macaca maura" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;North Dakota&#34; preparations:skeleton year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 756 download events in this period)
+Total number of records downloaded: 162
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+
+
+End of report.
