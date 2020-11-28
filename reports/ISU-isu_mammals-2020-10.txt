@@ -1,0 +1,123 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 8
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-13 ; Times: 8
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:ISU" ; Times: 1
+	Query: "Felis libyca" ; Times: 1
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "panthera uncia" ; Times: 4
+	Query: "genus:myotis county:&#34;alachua&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:aquaticus genus:Sylvilagus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "genus:panthera country:&#34;united states&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:ISU" ; Times: 1
+	Query: "specificepithet: campestris genus: Raphicerus" ; Times: 1
+	Query: "Neotoma county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Synaptomys cooperi Illinois" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:ISU" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "panthera leo" ; Times: 7
+	Query: "genus:Leopardus " ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1521 download events in this period)
+Total number of records downloaded: 1404
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 14
+	Date: 2020-10-31 ; Times: 6
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:ISU" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+
+
+End of report.
