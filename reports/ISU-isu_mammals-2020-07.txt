@@ -1,0 +1,78 @@
+Report for Institution Code ISU, Resource isu_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "ectophylla alba" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 940 download events in this period)
+Total number of records downloaded: 448
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "ectophylla alba" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
